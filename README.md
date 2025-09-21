@@ -16,7 +16,7 @@ Nerd's mantra  self:
 
 > Please focus on functionnal programming paradigm rather than object oriented, whenever possible.
 
-I also do GNU Linux systems based administration teaching.
+I also do teach/learn about GNU Linux systems based administration, networks, programmaing and web development.
 
 ### Motto :
 
@@ -42,9 +42,7 @@ Orientado a la enseñanza... en Escuelas públicas de Ciclos de Formación Profe
 
 > Por favor, enfócate en el paradigma de programación funcional en lugar del orientado a objetos, siempre que sea posible.
 
-También enseño-aprendo administración de sistemas, redes, programación y desarrollo web  basados en GNU Linux.
-
-Aprendiendo entorno a la Administración de Sistemas Gestores de Base de Datos. SQLite, SQL, MySQL, MariaDB, Postgres, pgAdmin ...
+También enseño-aprendo administración de sistemas basados en GNU/Linux, redes, programación y desarrollo web.
 
 ### Motto : 
 
