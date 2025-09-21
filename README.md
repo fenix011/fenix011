@@ -6,7 +6,7 @@
 
 Nerd's mantra  self:
 
-0.- Conocete a ti mismo. Know the computers around you. Sapere aude. Close Window$. Open GNU / Linux.
+0.- Know your self. Know the computers. Free the ones you use. Sapere aude. Close Window$. Open GNU / Linux.
 
 1.- Do not use React but vanilla JavaSCript (ES6 / ES7 ... ) if required . 
 
@@ -32,7 +32,7 @@ Hago [desarrollo como freelance a tiempo parcial](https://librebits.info/) :  pr
 
 Mantra del nerd para mi/tu yo futuro :
 
-0.- Conocete a ti mismo. Conocece al Computadora. Sapere aude. Apaga Window$. Arranca GNU / Linux . 
+0.- Conocete a ti mismo. Conoce a las Computadoras. Libera las que usas.Sapere aude. Apaga Window$. Arranca GNU / Linux . 
 
 1.- No uses React sino JavaScript vanilla (ES6 / ES7...) si es necesario.
 
