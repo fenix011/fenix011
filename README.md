@@ -1,3 +1,5 @@
+![readme](ave-fenix.jpg "README")
+
 ## Hi / Hola there!  ( English version | EN )
 
 (Part-time) [freelancer developer](https://librebits.info) : mostly Python, PHP, JavaScript and SQL databases (SQLite, SQL, MySQL, MariaDB, Postgres, pgAdmin ) and MongoDB , web APIs, etc... .
