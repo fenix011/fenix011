@@ -1,4 +1,4 @@
-![readme](ave-fenix.jpg "README")
+![readme](fenix-keyboard.jpg "README")
 
 ## Hi / Hola there!  ( English version | EN )  :-o
 
@@ -52,4 +52,5 @@ También enseño-aprendo administración de sistemas basados en GNU/Linux, redes
 
 
 
-con corazón Copyleft ;-)
+con corazón Copyleft
+desde Pinto, con amor  ;-)
