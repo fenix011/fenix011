@@ -1,4 +1,4 @@
-![readme](fenix-keyboard.jpg "README")
+![readme](fenix-keyboard.png "README")
 
 ## Hi / Hola there!  ( English version | EN )  :-o
 
